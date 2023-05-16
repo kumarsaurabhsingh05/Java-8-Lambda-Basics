@@ -25,7 +25,7 @@ public class CollectionIterationExample {
 			System.out.println(person);
 		}
 		
-		System.out.println("Using lambda for each loop");
+		System.out.println("Using lambda method referance for each loop");
 		people.forEach(System.out::println);
 		
 	}
